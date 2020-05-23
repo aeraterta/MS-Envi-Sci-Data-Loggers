@@ -19,6 +19,5 @@ All in all, 38 sites were sampled based on the parameters needed in the Objectiv
 Since the area is remote, cellular mobile data and reception is less which is a hindrance to have the data sent via text message. It was decided to have the data saved into a micro-SD card. For the device to operate in prolonged duration, a solar panel kit is used. 
 <p align="center">
 <img src="https://github.com/aeraterta/MS-Envi-Sci-Data-Loggers/blob/master/Sampling%20Documentation/IMG-20191006-125914.JPG" height="400">
-<br>
 <img src="https://github.com/aeraterta/MS-Envi-Sci-Data-Loggers/blob/master/Sampling%20Documentation/IMG-20190921-095921.JPG" height="400">
 </p>
