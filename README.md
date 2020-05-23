@@ -17,7 +17,8 @@ After an area is mined, it is required to have it returned into its original sta
 All in all, 38 sites were sampled based on the parameters needed in the Objectives. Seven (7) devices were fabricated to cover 2 sampling sites per day. Each sampling site has three (3) devices with the 1 control device situated at the office for computation purposes. It took a month to cover all the 38 sites. 
 
 Since the area is remote, cellular mobile data and reception is less which is a hindrance to have the data sent via text message. It was decided to have the data saved into a micro-SD card. For the device to operate in prolonged duration, a solar panel kit is used. 
-
+<p align="center">
 <img src="https://github.com/aeraterta/MS-Envi-Sci-Data-Loggers/blob/master/Sampling%20Documentation/IMG-20191006-125914.JPG" height="400">
 
 <img src="https://github.com/aeraterta/MS-Envi-Sci-Data-Loggers/blob/master/Sampling%20Documentation/IMG-20190921-095921.JPG" height="400">
+</p>
