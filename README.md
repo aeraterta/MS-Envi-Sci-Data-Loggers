@@ -20,4 +20,4 @@ Since the area is remote, cellular mobile data and reception is less which is a 
 
 <img src="https://github.com/aeraterta/MS-Envi-Sci-Data-Loggers/blob/master/Sampling%20Documentation/IMG-20191006-125914.JPG" height="400">
 
-<img src="https://github.com/aeraterta/MS-Envi-Sci-Data-Loggers/blob/master/Sampling%20Documentation/IMG-20191008-133446.JPG" height="400">
+<img src="https://github.com/aeraterta/MS-Envi-Sci-Data-Loggers/blob/master/Sampling%20Documentation/IMG-20190921-095921.JPG" height="400">
