@@ -1,5 +1,5 @@
 # MMDC Micro-climatic Assessment
-As mandated by The Philippine Mining Act of 1995 and Executive Order 79 (EO 79), each mining company is required to have an assessment and rehabilitation plan of all the new mining sites before their permits are approved. As the task needs specialists and experts, Marcventures Mining and Development Corporation, Carrascal, Surigao del Sur partnered with the Environmental Sciene Department of Mindanao State University - Iligan Instititute of Technology to fulfill each requirement. 
+As mandated by The Philippine Mining Act of 1995 and Executive Order 79 (EO 79), each mining company is required to have an assessment and rehabilitation plan of all the new mining sites before their permits are approved. As the task needs specialists and experts, Marcventures Mining and Development Corporation, Carrascal, Surigao del Sur partnered with the Environmental Science Department of Mindanao State University - Iligan Instititute of Technology to fulfill each requirement. 
 
 
 ## Objectives
